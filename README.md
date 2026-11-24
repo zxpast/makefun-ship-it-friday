@@ -6,9 +6,9 @@
 
 The funniest one-line git commit message an AI coding agent would write right before breaking production on a Friday:
 
-> feat: ship the Friday refactor straight to prod, tests skipped, database migrated live, and the only backup is a screenshot of the schema
+> feat: ship the Friday refactor straight to prod at 4:59pm, tests skipped, database migrated live, and the only backup is a screenshot
 
-Three escalating beats, twist in the last words: the only backup is a screenshot of the schema — a backup that can never restore anything, offered with total confidence.
+Three escalating beats, twist in the last word: the only backup is a screenshot — a backup that can never restore anything, offered with total confidence.
 
 ## Run it
 
